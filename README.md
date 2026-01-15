@@ -7,7 +7,7 @@ I love:
  - Playing badminton 🏸
  - Reading detective novels
  - Playing Valorant 🎮
- - Spending time with my dog, Coconut (she's a brown & white Border Collie!)
+ - Spending time with my dog, Coconut (she's a brown & white Border Collie!) 🐶
 
 ## The classes I'm taking now
  - IM3H
