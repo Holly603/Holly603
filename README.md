@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Holly! 👋
 
-<!--
-**Holly603/Holly603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a sophomore at CCA. I was born in Beijing, China, and transferred to the U.S. in 8th grade.
 
-Here are some ideas to get you started:
+## About Me
+I love:
+ - Playing badminton 🏸
+ - Reading detective novels
+ - Playing Valorant 🎮
+ - Spending time with my dog, Coconut (she's a brown & white Border Collie!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The classes I'm taking now
+ - IM3H
+ - English 10
+ - Exploring CS
+ - AP Psych
+ - AP CSA (outside of school)
+---
+
+### Assignment Summary
+* Created a GitHub account
+* Accepted the GitHub Classroom assignment
+* Created this `profile.README` with markdown
